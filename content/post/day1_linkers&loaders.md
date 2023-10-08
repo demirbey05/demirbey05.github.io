@@ -1,7 +1,7 @@
 +++
 author = "Okan"
 title = "Day 1 - Linkers Intro"
-date = "2019-10-04"
+date = "2023-10-04"
 description = "What is Linkers"
 tags = [
     "100dosp",
@@ -48,5 +48,4 @@ to create executable object file from these two code file we need to run at shel
 
 After we wrote this command to shell, each file is processed by **preprocessor , compiler , assembler** to create **relocatable object file**. At the end we have two relocatable object file. `gcc` puts these two relocatable file to linker for getting a single executable `.prog`
 
-By commanding `.prog` .The shell invokes a function in the operating system called the **loader**, which copies the code and data in the executable file prog into memory, and then transfers
-control to the beginning of the program
+By commanding `.prog` .The shell invokes a function in the operating system called the **loader**, which copies the code and data in the executable file prog into memory, and then transfers control to the beginning of the program
