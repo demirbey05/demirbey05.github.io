@@ -17,6 +17,7 @@ rss = true                                      # show rss icon
 # home page profile
 name = 'Huseyin Okan Demir'
 bio = 'Some programming stuffs'
+avatar = 'huseyinokand@gmail.com'
 
 
 # misc
