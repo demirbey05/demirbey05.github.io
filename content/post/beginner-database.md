@@ -1,6 +1,6 @@
 +++
 author = "Okan"
-title = "100 Days of Backend - Database 1"
+title = "Database Creation"
 date = "2023-11-10"
 description = "First Intro to SQL Databases with Golang"
 tags = [

@@ -1,6 +1,6 @@
 +++
 author = "Okan"
-title = "Websocket Chat App with Golang - 1 "
+title = "Websocket Chat App with Golang "
 date = "2023-10-28"
 description = "Basic implementation of websocket for chatting"
 tags = [
