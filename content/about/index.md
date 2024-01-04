@@ -1,6 +1,3 @@
-
-
-
 # Huseyin Okan Demir
 
 
