@@ -18,7 +18,7 @@ __Izmir Institute of Technology.__ I finished Electronics and Communication engi
 - I can easily use version control tools  like **Git** and **GitHub**
 - I can create a **Docker** container.
 
-My main language are **C/C++**. 
+My main language is **C/C++**. 
 
 ## Projects
 
