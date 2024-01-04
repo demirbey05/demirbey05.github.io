@@ -16,7 +16,9 @@ __Izmir Institute of Technology.__ I finished Electronics and Communication engi
 - I can create backend and web services with **Node JS** , **Prisma** and **MySQL**
 - I created backend and cloud projects with **Golang**.
 - I can easily use version control tools  like **Git** and **GitHub**
-- I can create a Docker container.
+- I can create a **Docker** container.
+
+My main language are **C/C++**. 
 
 ## Projects
 
