@@ -14,7 +14,7 @@ theme = 'maverick'
 
   [params.comments]
     enabled = true
-    githubRepo = 'canhtran/maverick'
+    githubRepo = 'demirbey05/demirbey05.github.io'
     theme = 'github-light'
 
 
