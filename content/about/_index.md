@@ -1,7 +1,7 @@
 # Huseyin Okan Demir
 
 
-Hello everyone, my name is Okan. I am software developer focused on system programming.
+Hello everyone, my name is Okan. I am software developer focused on system programming. I want to make impact on STEM.
 
 
 ## Education
