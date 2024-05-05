@@ -25,7 +25,7 @@ I believe that rsch can change research with the power of the internet. The best
 
 Exactly. Even if we can't attend an academic institution due to reasons beyond our control, we should still be able to do our best. Maybe with rsch, we can bypass silly steps and get accepted into an academic institution or continue with rsch.
 
-**Specifications of rsch
+## Specifications of rsch
 
 I think I've explained why we need rsch, which is a platform for advancing research. I created specifications for rsch by thinking about the benefits of being part of an academic institution. I believe that academic institutions will eventually integrate rsch into their systems. The benefits of academic institutions are:
 
