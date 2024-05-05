@@ -1,7 +1,7 @@
 # Huseyin Okan Demir
 
 
-Hello everyone, my name is Okan. I am software developer focused on system programming.
+Hello everyone, my name is Okan. I am software developer focused on system programming. I want to make impact on STEM.
 
 
 ## Education
@@ -10,9 +10,11 @@ Hello everyone, my name is Okan. I am software developer focused on system progr
 __Izmir Institute of Technology.__ I finished Electronics and Communication engineering BS degree with 3.16 GPA.
 
 ## Skills
-- I can create backend and web services with **Node JS** , **Prisma** and **MySQL**
-- I created backend and cloud projects with **Golang**.
-- I can easily use version control tools  like **Git** and **GitHub**
+- I am interested in anything requires **Analytical Thinking** and **Math**.
+- I have great experience on **Calculus**, **Linear Algebra** and **Probability Theory**.
+- I creeated backend and web services with **Node JS** , **Prisma** and **MySQL**.
+- I created **many** backend and cloud projects with **Golang**.
+- I can easily use version control tools like **Git** and **GitHub**.
 - I can create a **Docker** container.
 
 My main language is **Golang**. 
