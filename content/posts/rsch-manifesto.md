@@ -2,7 +2,7 @@
 author = "Okan"
 title = "rsch - Democratize Research and Contribution to Humanity"
 date = "2024-05-05"
-description = "First Intro to SQL Databases with Golang"
+description = "rsch- Future of Research"
 tags = [
     "rsch",
     "research",
