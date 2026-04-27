@@ -2,7 +2,8 @@ baseURL = "https://demirbey05.github.io/"
 languageCode = "en-us"
 title = "demirbey05"
 theme = "PaperMod"
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 enableRobotsTXT = true
 buildDrafts = false
