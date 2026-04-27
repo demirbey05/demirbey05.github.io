@@ -51,4 +51,4 @@ Deployment is fully automated via GitHub Actions. Every push to `main` triggers 
 
 ## License
 
-Content ©  Demirbey. Theme: [PaperMod](https://github.com/adityatelange/hugo-PaperMod) (MIT).
+Content © Demirbey. Theme: [PaperMod](https://github.com/adityatelange/hugo-PaperMod) (MIT).
